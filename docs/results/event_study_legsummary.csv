@@ -1,0 +1,4 @@
+leg,n_obs,mean_aligned_CAR_%,share_correct_sign,t_pooled
+credit,24,0.46,0.67,0.5
+rate,15,1.5,0.6,0.77
+ai,14,-0.93,0.43,-1.31

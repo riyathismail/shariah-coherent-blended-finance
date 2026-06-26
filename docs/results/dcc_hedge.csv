@@ -1,0 +1,5 @@
+,avg_corr,avg_hedge_ratio,hedging_effectiveness_%
+SPUS | SPSK,0.22,0.92,6.2
+SPUS | AGG,0.16,0.55,0.4
+SPUS | PAXG-USD,0.14,0.17,4.3
+SPUS | SPY,0.95,1.09,92.8

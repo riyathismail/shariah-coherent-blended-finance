@@ -1,0 +1,5 @@
+market,n,R2,alpha_ann%,alpha_t
+SPUS (US Islamic ETF) ~ SPY+QUAL,1635,0.92,2.61,1.25
+ISDU.L (US Islamic passive) ~ SPY+QUAL,3193,0.29,4.27,1.59
+ISDE.L (EM Islamic) ~ EEM,4561,0.35,2.45,0.73
+EFA (dev exUS) ~ ACWI,4588,0.91,-3.02,-2.23

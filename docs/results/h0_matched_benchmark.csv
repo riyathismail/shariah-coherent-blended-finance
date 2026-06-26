@@ -1,0 +1,5 @@
+,mean_diff_bps/day,diff_t,span_alpha_ann%,span_alpha_t,beta_exfin
+AMANX,-0.12,-0.21,-0.59,-0.4,0.92
+AMAGX,1.29,2.46,1.56,1.31,0.95
+SPUS,0.89,1.52,1.46,1.11,0.94
+HLAL,0.41,0.7,1.1,0.75,0.96

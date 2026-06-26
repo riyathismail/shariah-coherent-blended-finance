@@ -1,0 +1,8 @@
+product,type,expense_%,10yr_cost_$
+"ISDU.L (iShares USA Islamic, passive)",passive/transparent,0.4,786
+"SPUS (SP Funds 500 Shariah, passive)",passive/transparent,0.45,883
+"HLAL (Wahed FTSE USA Shariah, passive)",passive/transparent,0.5,979
+"UMMA (Wahed DJ Islamic World, passive)",passive/transparent,0.65,1265
+"AMAGX (Amana Growth, active)",active/opaque,0.86,1659
+"AMANX (Amana Income, active)",active/opaque,1.0,1918
+"IMANX (Iman Fund, active)",active/opaque,1.3,2462

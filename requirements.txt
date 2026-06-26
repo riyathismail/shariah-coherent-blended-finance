@@ -1,0 +1,9 @@
+yfinance>=0.2.40
+pandas>=2.0
+numpy>=1.24
+pandas-datareader>=0.10
+statsmodels>=0.14
+scipy>=1.10
+matplotlib>=3.7
+PyWavelets>=1.4
+# TVP-VAR connectedness is done in R (ConnectednessApproach); see src/connectedness/
